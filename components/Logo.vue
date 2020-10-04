@@ -1,5 +1,5 @@
 <template>
-  <header>
-    Logo
-  </header>
+  <div>
+    <h3>I'm stage</h3>
+  </div>
 </template>
